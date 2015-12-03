@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="StockService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:51139/StockService/Service.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:51139/StockService/Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:51139/StockService/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IStockService_GetDateRange_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateRange" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_GetDateRange_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateRangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_getSmallest_InputMessage">
+    <wsdl:part name="parameters" element="tns:getSmallest" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_getSmallest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getSmallestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_getLargest_InputMessage">
+    <wsdl:part name="parameters" element="tns:getLargest" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_getLargest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getLargestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_setSmallest_InputMessage">
+    <wsdl:part name="parameters" element="tns:setSmallest" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_setSmallest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setSmallestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_setLargest_InputMessage">
+    <wsdl:part name="parameters" element="tns:setLargest" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_setLargest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setLargestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_CalcMovingAverages_InputMessage">
+    <wsdl:part name="parameters" element="tns:CalcMovingAverages" />
+  </wsdl:message>
+  <wsdl:message name="IStockService_CalcMovingAverages_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CalcMovingAveragesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IStockService">
+    <wsdl:operation name="GetDateRange">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/GetDateRange" message="tns:IStockService_GetDateRange_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/GetDateRangeResponse" message="tns:IStockService_GetDateRange_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getSmallest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/getSmallest" message="tns:IStockService_getSmallest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/getSmallestResponse" message="tns:IStockService_getSmallest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getLargest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/getLargest" message="tns:IStockService_getLargest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/getLargestResponse" message="tns:IStockService_getLargest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setSmallest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/setSmallest" message="tns:IStockService_setSmallest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/setSmallestResponse" message="tns:IStockService_setSmallest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setLargest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/setLargest" message="tns:IStockService_setLargest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/setLargestResponse" message="tns:IStockService_setLargest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CalcMovingAverages">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStockService/CalcMovingAverages" message="tns:IStockService_CalcMovingAverages_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStockService/CalcMovingAveragesResponse" message="tns:IStockService_CalcMovingAverages_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IStockService" type="tns:IStockService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetDateRange">
+      <soap:operation soapAction="http://tempuri.org/IStockService/GetDateRange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSmallest">
+      <soap:operation soapAction="http://tempuri.org/IStockService/getSmallest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLargest">
+      <soap:operation soapAction="http://tempuri.org/IStockService/getLargest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setSmallest">
+      <soap:operation soapAction="http://tempuri.org/IStockService/setSmallest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setLargest">
+      <soap:operation soapAction="http://tempuri.org/IStockService/setLargest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalcMovingAverages">
+      <soap:operation soapAction="http://tempuri.org/IStockService/CalcMovingAverages" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="StockService">
+    <wsdl:port name="BasicHttpBinding_IStockService" binding="tns:BasicHttpBinding_IStockService">
+      <soap:address location="http://localhost:51139/StockService/Service.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

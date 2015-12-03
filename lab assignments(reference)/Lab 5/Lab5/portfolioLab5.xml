@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<portfolio>
+	<priceData>
+		<file name="ibmx.xml"/>
+		<file name="msft.xml"/>
+		<file name="ulti.xml"/>
+		<file name="goog.xml"/>
+	</priceData>
+	
+	<transaction>
+		<ticker>GOOG</ticker>
+		<action>buy</action>
+		<date>20071116</date>
+		<shares>44</shares>
+	</transaction>
+	<transaction>
+		<ticker>IBMX</ticker>
+		<action>buy</action>
+		<date>20080104</date>
+		<shares>350</shares>
+	</transaction>
+	<transaction>
+		<ticker>MSFT</ticker>
+		<action>buy</action>
+		<date>20080205</date>
+		<shares>250</shares>
+	</transaction>
+	<transaction>
+		<ticker>GOOG</ticker>
+		<action>buy</action>
+		<date>20080917</date>
+		<shares>150</shares>
+	</transaction>
+	<transaction>
+		<ticker>IBMX</ticker>
+		<action>buy</action>
+		<date>20091005</date>
+		<shares>200</shares>
+	</transaction>
+	<transaction>
+		<ticker>ULTI</ticker>
+		<action>buy</action>
+		<date>20080505</date>
+		<shares>50</shares>
+	</transaction>
+	<transaction>
+		<ticker>MSFT</ticker>
+		<action>sell</action>
+		<date>20090421</date>
+		<shares>50</shares>
+	</transaction>
+	<transaction>
+		<ticker>IBMX</ticker>
+		<action>sell</action>
+		<date>20100216</date>
+		<shares>100</shares>
+	</transaction>
+	<transaction>
+		<ticker>GOOG</ticker>
+		<action>sell</action>
+		<date>20100322</date>
+		<shares>50</shares>
+	</transaction>
+	<transaction>
+		<ticker>GOOG</ticker>
+		<action>sell</action>
+		<date>20100428</date>
+		<shares>100</shares>
+	</transaction>
+	<transaction>
+		<ticker>IBMX</ticker>
+		<action>sell</action>
+		<date>20110516</date>
+		<shares>120</shares>
+	</transaction>
+</portfolio>
+</Root>

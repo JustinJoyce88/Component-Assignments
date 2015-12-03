@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="invest_asg1.xslt"?>
+<!--  Data file for Assignment 1  -->
+<accounts>
+  <account>
+    <id>10000011</id>
+    <name>Smith, John</name>
+    <investment ticker="AMC">
+      <transaction type="buy">
+        <date>03/20/2010</date>
+        <price>45.00</price>
+        <numShares>78</numShares>
+      </transaction>
+      <transaction type="buy">
+        <date>03/22/2010</date>
+        <price>42.00</price>
+        <numShares>53</numShares>
+      </transaction>
+      <transaction type="sell">
+        <date>08/5/2010</date>
+        <price>47.00</price>
+        <numShares>115</numShares>
+      </transaction>
+    </investment>
+    <investment ticker="DMX">
+      <transaction type="buy">
+        <date>01/20/2010</date>
+        <price>35.00</price>
+        <numShares>100</numShares>
+      </transaction>
+      <transaction type="buy">
+        <date>02/22/2010</date>
+        <price>37.00</price>
+        <numShares>50</numShares>
+      </transaction>
+      <transaction type="sell">
+        <date>01/5/2011</date>
+        <price>42.00</price>
+        <numShares>150</numShares>
+      </transaction>
+    </investment>
+  </account>
+
+  <account>
+    <id>10002222</id>
+    <name>Cena, John</name>
+    <investment ticker="SNE">
+      <transaction type="buy">
+        <date>03/20/2010</date>
+        <price>45.00</price>
+        <numShares>78</numShares>
+      </transaction>
+      <transaction type="buy">
+        <date>03/22/2010</date>
+        <price>42.00</price>
+        <numShares>53</numShares>
+      </transaction>
+      <transaction type="sell">
+        <date>08/5/2010</date>
+        <price>47.00</price>
+        <numShares>115</numShares>
+      </transaction>
+    </investment>
+    <investment ticker="WWE">
+      <transaction type="buy">
+        <date>01/20/2010</date>
+        <price>35.00</price>
+        <numShares>100</numShares>
+      </transaction>
+      <transaction type="buy">
+        <date>02/22/2010</date>
+        <price>37.00</price>
+        <numShares>50</numShares>
+      </transaction>
+      <transaction type="sell">
+        <date>01/5/2011</date>
+        <price>42.00</price>
+        <numShares>150</numShares>
+      </transaction>
+    </investment>
+  </account>
+</accounts>

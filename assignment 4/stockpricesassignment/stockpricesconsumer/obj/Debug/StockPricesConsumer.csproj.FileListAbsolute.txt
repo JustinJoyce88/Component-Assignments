@@ -1,0 +1,11 @@
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\bin\Debug\StockPricesConsumer.exe.config
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.exe
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.pdb
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\bin\Debug\StockPricesConsumer.exe.config
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\bin\Debug\StockPricesConsumer.exe
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\bin\Debug\StockPricesConsumer.pdb
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.Form1.resources
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.Properties.Resources.resources
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.csproj.GenerateResource.Cache
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.exe
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Assignment 4\StockPricesAssignment\StockPricesConsumer\obj\Debug\StockPricesConsumer.pdb

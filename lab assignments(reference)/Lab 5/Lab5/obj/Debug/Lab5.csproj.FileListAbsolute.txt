@@ -1,0 +1,6 @@
+c:\users\solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Solarkhan\documents\visual studio 2012\Projects\Lab5\Lab5\obj\Debug\Lab5.pdb

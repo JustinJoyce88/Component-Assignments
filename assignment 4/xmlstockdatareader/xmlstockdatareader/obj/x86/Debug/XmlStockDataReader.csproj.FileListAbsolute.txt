@@ -1,0 +1,10 @@
+D:\Classes\2012_summer\cop 4814\Assignment_Solutions\Asg5_StockPriceService\XmlStockDataReader\XmlStockDataReader\bin\Debug\XmlStockDataReader.exe
+D:\Classes\2012_summer\cop 4814\Assignment_Solutions\Asg5_StockPriceService\XmlStockDataReader\XmlStockDataReader\bin\Debug\XmlStockDataReader.pdb
+D:\Classes\2012_summer\cop 4814\Assignment_Solutions\Asg5_StockPriceService\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Classes\2012_summer\cop 4814\Assignment_Solutions\Asg5_StockPriceService\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\XmlStockDataReader.exe
+D:\Classes\2012_summer\cop 4814\Assignment_Solutions\Asg5_StockPriceService\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\XmlStockDataReader.pdb
+C:\data\Dropbox\Classes\Spr_2014\cop 4814\assignment solutions\Asg_4_Stock Price Service\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\XmlStockDataReader.exe
+C:\data\Dropbox\Classes\Spr_2014\cop 4814\assignment solutions\Asg_4_Stock Price Service\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\XmlStockDataReader.pdb
+C:\data\Dropbox\Classes\Spr_2014\cop 4814\assignment solutions\Asg_4_Stock Price Service\XmlStockDataReader\XmlStockDataReader\bin\Debug\XmlStockDataReader.exe
+C:\data\Dropbox\Classes\Spr_2014\cop 4814\assignment solutions\Asg_4_Stock Price Service\XmlStockDataReader\XmlStockDataReader\bin\Debug\XmlStockDataReader.pdb
+C:\data\Dropbox\Classes\Spr_2014\cop 4814\assignment solutions\Asg_4_Stock Price Service\XmlStockDataReader\XmlStockDataReader\obj\x86\Debug\XmlStockDataReader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe.config
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.Form1.resources
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.Properties.Resources.resources
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.csproj.GenerateResource.Cache
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\bin\Debug\StockServiceConsumer.pdb
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.exe
+C:\Users\Kip\Desktop\Assignment 4\StockServiceConsumer\obj\Debug\StockServiceConsumer.pdb
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe.config
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.exe
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.pdb
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\bin\Debug\StockServiceConsumer.pdb
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.Form1.resources
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.Properties.Resources.resources
+C:\Users\Kip\Desktop\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.csproj.GenerateResource.Cache
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe.config
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.exe
+C:\Users\Justin Joyce\Dropbox\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.pdb
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\bin\Debug\StockServiceConsumer.exe.config
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.exe
+C:\Users\Alberto\Dropbox\Spring 2014\component based\Comp. Based Assignments\Asg4EmptyShell\StockServiceConsumer\obj\Debug\StockServiceConsumer.pdb
